@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dotnet\\learning\\cuoi ki\\QLHS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D274CF72-6A46-49D3-9A44-C7A1CC1F4054}|QLHS.csproj|d:\\dotnet\\learning\\cuoi ki\\qlhs\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D274CF72-6A46-49D3-9A44-C7A1CC1F4054}|QLHS.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D274CF72-6A46-49D3-9A44-C7A1CC1F4054}|QLHS.csproj|d:\\dotnet\\learning\\cuoi ki\\qlhs\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D274CF72-6A46-49D3-9A44-C7A1CC1F4054}|QLHS.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D274CF72-6A46-49D3-9A44-C7A1CC1F4054}|QLHS.csproj|d:\\dotnet\\learning\\cuoi ki\\qlhs\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D274CF72-6A46-49D3-9A44-C7A1CC1F4054}|QLHS.csproj|solutionrelative:window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D274CF72-6A46-49D3-9A44-C7A1CC1F4054}|QLHS.csproj|d:\\dotnet\\learning\\cuoi ki\\qlhs\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D274CF72-6A46-49D3-9A44-C7A1CC1F4054}|QLHS.csproj|solutionrelative:window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D274CF72-6A46-49D3-9A44-C7A1CC1F4054}|QLHS.csproj|d:\\dotnet\\learning\\cuoi ki\\qlhs\\models\\hocsinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D274CF72-6A46-49D3-9A44-C7A1CC1F4054}|QLHS.csproj|solutionrelative:models\\hocsinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D274CF72-6A46-49D3-9A44-C7A1CC1F4054}|QLHS.csproj|d:\\dotnet\\learning\\cuoi ki\\qlhs\\models\\lop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D274CF72-6A46-49D3-9A44-C7A1CC1F4054}|QLHS.csproj|solutionrelative:models\\lop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D274CF72-6A46-49D3-9A44-C7A1CC1F4054}|QLHS.csproj|d:\\dotnet\\learning\\cuoi ki\\qlhs\\models\\qlhocsinhcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D274CF72-6A46-49D3-9A44-C7A1CC1F4054}|QLHS.csproj|solutionrelative:models\\qlhocsinhcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Window1.xaml.cs",
+              "DocumentMoniker": "D:\\dotnet\\learning\\cuoi ki\\QLHS\\Window1.xaml.cs",
+              "RelativeDocumentMoniker": "Window1.xaml.cs",
+              "ToolTip": "D:\\dotnet\\learning\\cuoi ki\\QLHS\\Window1.xaml.cs",
+              "RelativeToolTip": "Window1.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T07:04:51.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Window1.xaml",
+              "DocumentMoniker": "D:\\dotnet\\learning\\cuoi ki\\QLHS\\Window1.xaml",
+              "RelativeDocumentMoniker": "Window1.xaml",
+              "ToolTip": "D:\\dotnet\\learning\\cuoi ki\\QLHS\\Window1.xaml",
+              "RelativeToolTip": "Window1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-20T06:56:07.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HocSinh.cs",
+              "DocumentMoniker": "D:\\dotnet\\learning\\cuoi ki\\QLHS\\models\\HocSinh.cs",
+              "RelativeDocumentMoniker": "models\\HocSinh.cs",
+              "ToolTip": "D:\\dotnet\\learning\\cuoi ki\\QLHS\\models\\HocSinh.cs",
+              "RelativeToolTip": "models\\HocSinh.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T17:08:07.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Lop.cs",
+              "DocumentMoniker": "D:\\dotnet\\learning\\cuoi ki\\QLHS\\models\\Lop.cs",
+              "RelativeDocumentMoniker": "models\\Lop.cs",
+              "ToolTip": "D:\\dotnet\\learning\\cuoi ki\\QLHS\\models\\Lop.cs",
+              "RelativeToolTip": "models\\Lop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T17:08:04.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QlhocSinhContext.cs",
+              "DocumentMoniker": "D:\\dotnet\\learning\\cuoi ki\\QLHS\\models\\QlhocSinhContext.cs",
+              "RelativeDocumentMoniker": "models\\QlhocSinhContext.cs",
+              "ToolTip": "D:\\dotnet\\learning\\cuoi ki\\QLHS\\models\\QlhocSinhContext.cs",
+              "RelativeToolTip": "models\\QlhocSinhContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T17:03:24.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\dotnet\\learning\\cuoi ki\\QLHS\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "D:\\dotnet\\learning\\cuoi ki\\QLHS\\MainWindow.xaml.cs*",
+              "RelativeToolTip": "MainWindow.xaml.cs*",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAiwFwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T16:59:30.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\dotnet\\learning\\cuoi ki\\QLHS\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\dotnet\\learning\\cuoi ki\\QLHS\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-19T16:59:33.628Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
